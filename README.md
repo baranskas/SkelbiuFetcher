@@ -24,5 +24,7 @@ For educational purposes only.
 - Vinted and Facebook marketplace are planned to be added in the future.
 
 ## To-do
-- [ ] Implement OOP principles / refactor code for easier readability.
+- [X] Refactor code for easier readability.
 - [ ] Profitability counting formula for each new item.
+- [ ] UI
+- [ ] Settings for easier scraping
