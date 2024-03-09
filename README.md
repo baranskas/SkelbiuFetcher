@@ -2,15 +2,15 @@
 Second hand item platform skelbiu.lt scraper for new items.
 For educational purposes only.
 
-## Features
-- Choose categories of items you want to scrape for.
-- Choose whether you want Sound ON or OFF.
-- Get a fetched list every 5 seconds for new items with their name, city, price and time of publishing.
-
 **Dependencies:**
 - Selenium
 - playsound
 - beaupy
+
+## Features
+- Choose categories of items you want to scrape for.
+- Choose whether you want Sound ON or OFF.
+- Get a fetched list every 5 seconds for new items with their name, city, price and time of publishing.
 
 ## Q&A
 
