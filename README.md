@@ -4,21 +4,15 @@ For educational purposes only.
 
 **Dependencies:**
 - Selenium
-- playsound
-- beaupy
 
 ## Features
-- Choose categories of items you want to scrape for.
-- Choose whether you want Sound ON or OFF.
-- Get a fetched list every 5 seconds for new items with their name, city, price and time of publishing.
+- Search for items you want to scrape the website for.
+- Get a fetched list every 5 seconds for new items with their name, city, price and a link to the listing.
 
 ## Q&A
 
 **Why not beautifulpanda, but Selenium?**
 - beautifulpanda library gets caught by captchas, Selenium doesn't.
-
-**Why terminal-based instead of GUI?**
-- GUI is planned to be added in the future.
 
 **Are there gonna be more second-hand websites added?**
 - Vinted and Facebook marketplace are planned to be added in the future.
