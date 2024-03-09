@@ -7,7 +7,6 @@ Educational purposes only.
 - playsound
 - beaupy
 
-Q&A
 **Why not beautifulpanda, but Selenium?**
 -- beautifulpanda library gets caught by captchas, Selenium doesn't.
 
