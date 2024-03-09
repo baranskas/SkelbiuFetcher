@@ -7,3 +7,6 @@ Educational purposes only.
 - playsound
 - beaupy
 
+To-do
+- [ ] Implement OOP principles / refactor code for easier readability.
+- [ ] Profitability counting formula for each new item.
